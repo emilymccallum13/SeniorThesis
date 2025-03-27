@@ -1,4 +1,4 @@
-# Senior_Thesis
+# SeniorThesis
 
 Repository containing all coding products of my senior thesis, to include the following:
 1. Point Spread Function Development and Refinement (psf_dev.ipynb)
